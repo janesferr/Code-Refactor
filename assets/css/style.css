@@ -23,7 +23,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* header div to nav */
 .header nav  {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,10 +32,12 @@ body {
     font-size: 20px;
 }
 
+/* header div to nav */
 .header nav ul  {
     list-style-type: none;
 }
 
+/* header div to nav */
 .header nav ul li  {
     display: inline-block;
     margin-left: 25px;
