@@ -12,3 +12,5 @@ The first link did not work because it was a class instead of an id.
 The middle page has been chnaged to have semantic html and alt tags for the images and icons.
 
 ![Top of the website screenshot](assets/images/Middlepage.png?raw=true "Top screenshot of webpage")
+
+Here is the deployed link through github: https://janesferr.github.io/Code-Refactor/
